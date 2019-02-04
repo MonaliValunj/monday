@@ -3,3 +3,6 @@ body{
     background-color: #ccc;
     color: #333;
 }
+h1, h2, h3 {
+    color: aliceblue;
+}
